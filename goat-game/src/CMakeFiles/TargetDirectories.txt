@@ -1,4 +1,0 @@
-/home/abba/Desktop/Personal/cpp-pratice/goat-game/src/CMakeFiles/edit_cache.dir
-/home/abba/Desktop/Personal/cpp-pratice/goat-game/src/CMakeFiles/Doors.dir
-/home/abba/Desktop/Personal/cpp-pratice/goat-game/src/CMakeFiles/rebuild_cache.dir
-/home/abba/Desktop/Personal/cpp-pratice/goat-game/src/CMakeFiles/GoatGame.dir

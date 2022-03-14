@@ -1,2 +1,0 @@
-/usr/bin/ar qc libDoors.a  CMakeFiles/Doors.dir/Door.o CMakeFiles/Doors.dir/GameShow.o
-/usr/bin/ranlib libDoors.a
